@@ -35,7 +35,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Having the last known state of a remote stored locally is beneficial if
+    you don't have internet access and want to be able to see the differences
+    between the remote and your local repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
