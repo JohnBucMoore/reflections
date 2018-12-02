@@ -42,7 +42,12 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I collaborated using Google Docs and sharing resources through email and
+    web. Git and GitHub are so much more effecient. The entire workflow is
+    easier with Git and GitHub the only difficult thing is the learning curve
+    for Git & GitHub. But the solution is to partner with primary education
+    early on to get teachers to use this platform in collaboration with
+    the enterprise softwares that are used for public education.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
