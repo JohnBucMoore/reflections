@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    diff -u allowed me to see the changes made between two files in a uniform
+    example by placing all the code in a single annotated print out. By doing
+    so I was able to see the bug that was introduced quickly and efficiently.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having easy access to the entire history of a file can help make anyone
+    a more efficient programmer by allowing us to quickly view changes and
+    methods of those changes. It can also help generate creative solutions
+    for future versions.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: logical seperation of changes, optimized organization and resource
+    allocation
+
+    Cons: propensity for human error, subjectivity
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows saving multiple files in one commit to help articulate inter-
+    dependencies of the files in a given repository. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can view all of a repositories commits using git log and compare
+    commits using git diff.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control makes me more confident to make changes that could break
+    something because I know that I can always revert back to a previous commit
+    to undo any future commits and to regain functionality.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try to master git and use it for everything from building my first
+    application, to launching my 20 websites, to helping local business owners
+    organize and track their own projects. I hope to take this knowledge and
+    teach it to others to help the citizens of Detroit.
