@@ -52,4 +52,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You want to make changes in a separate branch when you're collaborating on
+    a project and making changes that you want your team to approve before
+    making a commit or merge to master. The benefit of this is that master
+    stays the same until a concensus is reached to merge that revision into
+    the master branch.
